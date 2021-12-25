@@ -1,0 +1,4 @@
+{
+    "DB_URL":"mongodb+srv://sudharshan:31sgy7vMaCG5npvQ@cluster0.lk5pc.mongodb.net/THINK201?retryWrites=true&w=majority",
+    "PORT":"1111"
+}
